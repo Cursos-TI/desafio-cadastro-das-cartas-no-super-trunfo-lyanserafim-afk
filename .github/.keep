@@ -1,0 +1,95 @@
+#include <stdio>
+   int main(){
+       printf("Desafio CartasSuperTrunfo!"\n);
+    
+       Carta1
+    char Estado1: A
+    char Código1: A01
+    char Nome da Cidade1: São Paulo
+    int  População1: 12325000
+    float Área1: 1521.11 km²
+    float PIB1: 699.28 bilhões de reais
+    int Número de Pontos Turísticos1: 50
+     
+        Carta2
+     char Estado2:B
+     char Código2: B02
+     char Nome da Cidade2: Rio de Janeiro
+     int  População2: 6748000
+     float Área2: 1200.25 km²
+     float PIB2 300.50 bilhões de reais
+     int Número de Pontos Turísticos2: 30    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   }
